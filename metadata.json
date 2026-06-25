@@ -1,0 +1,6 @@
+{
+  "name": "Secure Video Dashboard",
+  "description": "An elegant dashboard featuring an autoplaying 10-second intro video that blurs and gates the dashboard behind a password screen upon completion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
